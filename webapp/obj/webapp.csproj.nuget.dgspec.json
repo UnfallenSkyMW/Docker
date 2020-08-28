@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/mark/Documents/Project/VSCode/Azure/Docker/webapp/webapp.csproj": {}
+    "/Users/mark/Documents/Project/VSCode/Azure/Docker/Docker/webapp/webapp.csproj": {}
   },
   "projects": {
-    "/Users/mark/Documents/Project/VSCode/Azure/Docker/webapp/webapp.csproj": {
+    "/Users/mark/Documents/Project/VSCode/Azure/Docker/Docker/webapp/webapp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/mark/Documents/Project/VSCode/Azure/Docker/webapp/webapp.csproj",
+        "projectUniqueName": "/Users/mark/Documents/Project/VSCode/Azure/Docker/Docker/webapp/webapp.csproj",
         "projectName": "webapp",
-        "projectPath": "/Users/mark/Documents/Project/VSCode/Azure/Docker/webapp/webapp.csproj",
+        "projectPath": "/Users/mark/Documents/Project/VSCode/Azure/Docker/Docker/webapp/webapp.csproj",
         "packagesPath": "/Users/mark/.nuget/packages/",
-        "outputPath": "/Users/mark/Documents/Project/VSCode/Azure/Docker/webapp/obj/",
+        "outputPath": "/Users/mark/Documents/Project/VSCode/Azure/Docker/Docker/webapp/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/mark/.nuget/NuGet/NuGet.Config"
